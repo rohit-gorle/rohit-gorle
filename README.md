@@ -14,6 +14,8 @@ In my free time, I enjoy spending time with my family, friends, travelling.
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=rohit-gorle&color=blue&label=Profile+Views)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohit-gorle&hide_progress=true)
+
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gannaramu&theme=synthwave)](https://git.io/streak-stats)
 
 <img src="https://github.com/rohit-gorle/rohit-gorle/blob/master/Animation4.gif" width="700"> -->
